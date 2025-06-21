@@ -117,6 +117,10 @@ div a{
     color: black;
 }
 
+form label{
+    color: whitesmoke;
+}
+
 .carrossel-container {
     position: relative;
     width: calc((220px * 5) + (20px * 4));
